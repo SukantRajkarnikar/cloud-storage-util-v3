@@ -9,7 +9,6 @@ android {
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.sukantrajkarnikar.cloud_storage_util_v3"
         minSdk 24
         targetSdk 34
         versionCode 1
