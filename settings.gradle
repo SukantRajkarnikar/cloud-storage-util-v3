@@ -20,5 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "cloud-storage-util-v3"
-include(":app")
- 
+include ':app'

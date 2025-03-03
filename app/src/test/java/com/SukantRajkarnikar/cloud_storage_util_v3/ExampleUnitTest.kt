@@ -1,4 +1,4 @@
-package com.SukantRajkarnikar.cloud_storage_util_v3
+package com.sukantrajkarnikar.cloud_storage_util_v3
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.SukantRajkarnikar.cloud_storage_util_v3
+package com.sukantrajkarnikar.cloud_storage_util_v3
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.SukantRajkarnikar.cloud_storage_util_v3", appContext.packageName)
+        assertEquals("com.sukantrajkarnikar.cloud_storage_util_v3", appContext.packageName)
     }
 }
