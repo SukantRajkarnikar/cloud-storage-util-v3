@@ -4,6 +4,7 @@ import android.content.ContentProvider
 import android.content.ContentValues
 import android.database.Cursor
 import android.net.Uri
+import com.sukantrajkarnikar.cloud_storage_util_v3.AWSUtils
 
 class AwsUtilInitializer : ContentProvider() {
     override fun onCreate(): Boolean {
